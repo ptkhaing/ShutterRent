@@ -19,3 +19,6 @@ Built with the **MERN stack**, it features secure authentication, real-time data
 
 ## License
 Created as part of the *CET300 Computing Project* project, University of Sunderland (Aug 2025).
+
+## Live Demo
+[View ShutterRent Live](https://shutterrent-frontend.vercel.app)
