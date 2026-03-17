@@ -22,10 +22,13 @@ Created as part of the *CET300 Computing Project* project, University of Sunderl
 
 ## Live Demo
 [View ShutterRent Live](https://shutterrent-frontend.vercel.app)
+
 You may use the following demo credentials to test the platform:
+
 Admin
 •	Email: aamirptk95@gmail.com
 •	Password: shutterrent123
+
 User
 •	Email: newuser@gmail.com
 •	Password: shutterrent321
